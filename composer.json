@@ -1,0 +1,8 @@
+{
+  "name": "guzzle",
+  "description": "Teste de Crawler",
+  "require": {
+    "guzzlehttp/guzzle": "~6.0",
+    "fabpot/goutte": "^3.2"
+  }
+}
